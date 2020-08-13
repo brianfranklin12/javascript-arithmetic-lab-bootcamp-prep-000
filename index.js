@@ -11,10 +11,10 @@ function divide(a,b) {
   return a/b
 }
 function increments(n) {
-  n += 1
+  n = n + 1
   return n
 }
 function decrements(n) {
-  n -= 1
+  n = n - 1
   return n
 }
